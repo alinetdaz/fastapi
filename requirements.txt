@@ -1,2 +1,6 @@
-fastapi==0.100.0
-hypercorn==0.14.4
+fastapi
+hypercorn
+crewai
+python-dotenv
+crewai-tools
+langchain-openai
